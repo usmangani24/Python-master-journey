@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("Good Morning")
+print("I Love Python")
+print("AI Engineer")
+print("Mission 2 years")
